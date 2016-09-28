@@ -36,10 +36,12 @@
     `1.0 * 2`
 
 - Recursive defined functions (`let rec`)
-```
-let rec fib n =
-  if n < 2 then n else fib (n-1) + fib (n-2)
-  fib 10```
+
+    ```
+    let rec fib n =
+      if n < 2 then n else fib (n-1) + fib (n-2)
+      fib 10
+    ```
 
 ## Data types
 
@@ -47,13 +49,15 @@ let rec fib n =
 
     ```
     # (1 < 2);;
-    - : bool = true```
+    - : bool = true
+    ```
 
 - Characters and `char` type
 
     ```
     # 'a';;
-    - : char = 'a'```
+    - : char = 'a'
+    ```
 
 - Strings and `string` type
 
@@ -63,13 +67,15 @@ let rec fib n =
 
     ```
     # let l = ["is"; "a"; "tale"; "told"; "etc."];;
-    val l : string list = ["is"; "a"; "tale"; "told"; "etc."]```
+    val l : string list = ["is"; "a"; "tale"; "told"; "etc."]
+    ```
 
 - List constructor (`::`)
 
     ```
     # "Life" :: l;;
-    - : string list = ["Life"; "is"; "a"; "tale"; "told"; "etc."]```
+    - : string list = ["Life"; "is"; "a"; "tale"; "told"; "etc."]
+    ```
 
 - Pattern matching (application to sorting)
 
@@ -82,7 +88,8 @@ let rec fib n =
       match lst with
         [] -> [elt]
       | head :: tail -> if elt <= head then elt :: lst else head :: insert elt tail
-    sort l```
+    sort l
+    ```
 
 ## Functions as values
 
@@ -241,13 +248,13 @@ let rec insert x btree =
 
 Question should be addressed on [a Github issue page](https://github.com/wakita/fp2015/issues/1) (you need a Github account to do so).
 
-## Assignment 1: Tree manipulation
+## Assignment 1: Tree manipulation (tree.ml)
 
 - Give a definition of the `size` function, which counts the number of `Node` in the tree.
 
 - Give a definition of the `depth` function, which takes a `btree`-typed tree and gives its depth.  `depth Empty` should be 0.
 
-## Assignment 2: Gray code
+## Assignment 2: Gray code (gray.ml)
 
 The following is a sequence of the *N-bit gray code* for smaller *N*s.  Examine this sequence and figure out the general rule that generates gray code in the general cases.  Describe the rule in OCaml.
 
@@ -256,7 +263,7 @@ gray 1 = [[0]; [1]]
 gray 2 = [[0; 0]; [0; 1]; [1; 1]; [1; 0]]
 gray 3 = [[0; 0; 0]; [0; 0; 1]; [0; 1; 1]; [0; 1; 0]; [1; 1; 0]; [1; 1; 1]; [1; 0; 1]; [1; 0; 0]]
 
-## Assignment 3: every2
+## Assignment 3: every2 (every2.ml)
 
 Define a function named `every_next` that takes a tree of `'a bteee` and gives a list that consists of the elements in the tree that appears in the odd positions of the tree leaves.
 
