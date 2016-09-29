@@ -252,7 +252,7 @@ Question should be addressed on [a Github issue page](https://github.com/wakita/
 
 - Give a definition of the `size` function, which counts the number of `Node` in the tree.
 
-- Give a definition of the `depth` function, which takes a `btree`-typed tree and gives its depth.  `depth Empty` should be 0.
+- Give a definition of the `height` function, which takes a `btree`-typed tree and gives its height.  `height Empty` should be 0.
 
 ## Assignment 2: Gray code (gray.ml)
 
@@ -263,6 +263,7 @@ gray 1 = [[0]; [1]]
 gray 2 = [[0; 0]; [0; 1]; [1; 1]; [1; 0]]
 gray 3 = [[0; 0; 0]; [0; 0; 1]; [0; 1; 1]; [0; 1; 0]; [1; 1; 0]; [1; 1; 1]; [1; 0; 1]; [1; 0; 0]]
 
+<!--
 ## Assignment 3: every2 (every2.ml)
 
 Define a function named `every_next` that takes a tree of `'a bteee` and gives a list that consists of the elements in the tree that appears in the odd positions of the tree leaves.
@@ -272,3 +273,4 @@ every_next: 'a btree -> 'a list
 
 every_next (Node(1, Node(2, Empty, Empty), Node(3, Empty, Node(4, Empty, Empty)))) = [2, 3]
 ```
+-->

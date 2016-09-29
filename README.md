@@ -3,8 +3,8 @@ Functional Programming for Year 2016
 
 Date | Content | Assignment
 ----- | ----- | :-----:
-Sep. 26 | Overview | x
-Sep. 29 | Introduction to functional programming in OCaml | Assignment will be placed on OCW-i
+Sep. 26 | Overview | Reading assignment & Install OCaml on your laptop
+Sep. 29 | Introduction to functional programming in OCaml | Assignment is placed on OCW-i
 
 
 <!--
