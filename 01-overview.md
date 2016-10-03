@@ -38,4 +38,4 @@ Teaching material is found at [GitHub](https://github.com/wakita/fp2016)
 
     - Windows: 上記サイトよりダウンロード
 
-- [MinCaml](http://esumii.github.io/min-caml/)
+- [MinCaml](http://esumii.github.io/min-caml/index-e.html)
