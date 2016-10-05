@@ -3,9 +3,22 @@ Functional Programming for Year 2016
 
 Date | Content | Assignment
 ----- | ----- | :-----:
-Sep. 26 | Overview | Reading assignment & Install OCaml on your laptop
-Sep. 29 | Introduction to functional programming in OCaml | Assignment is placed on OCW-i
+Sep. 26 | [Overview](01-overview.md) | Reading assignment & Install OCaml on your laptop
+Sep. 29 | [Introduction to functional programming in OCaml (1)](02-ocaml1.md) | Assignment is placed on OCW-i
+Oct. 3 | [Introduction to functional programming in OCaml (2)](02-ocaml1.md) |
+Oct. 6 | [Min-Caml compiler organization](04-mincaml.md) |
 
+# References
+
+## About OCaml
+
+- [The OCaml system release 4.03: Documentation and user's manual](doc/ocaml-4.03-refman.pdf)
+
+## About MinCaml
+
+- [The MinCaml compiler stages](doc/mincaml-overview.pdf), a semi-formal description
+
+- E. Sumii, [MinCaml: A simple and efficient compiler for a minimal functional language](doc/sumii-05-mincaml-paper.pdf), FDPE '05, 2005
 
 <!--
 Class 2	Introduction to functional programming in OCaml (1)	 Primitive data types, compound data types, algebraic data types. 
