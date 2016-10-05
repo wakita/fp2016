@@ -20,6 +20,13 @@ Oct. 6 | [Min-Caml compiler organization](04-mincaml.md) |
 
 - E. Sumii, [MinCaml: A simple and efficient compiler for a minimal functional language](doc/sumii-05-mincaml-paper.pdf), FDPE '05, 2005
 
+- E. Sumii, [MinCaml: A simple and efficient compiler for a minimal functional language](doc/sumii-05-mincaml-slide.pdf), slideware presented at FDPE '05, 2005
+
+- [A micro overview of the MinCaml project](doc/sumii-04-overview.pdf) (in Japanese)
+
+
+- [MinCaml project summary report](doc/sumii-mincaml-final-report.pdf)
+
 <!--
 Class 2	Introduction to functional programming in OCaml (1)	 Primitive data types, compound data types, algebraic data types. 
 Class 3	Introduction to functional programming in OCaml (2)	 Recursive data structures, recursive functions, higher-order functions, mutable states. 
