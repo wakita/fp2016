@@ -39,7 +39,7 @@ What we see in the distribution of MinCaml system
 ## Optimizers
 
 - Beta (Sarocha Sothornprapakorn): Reduction of name aliases (e.g., `let x = y in M` → `[y/x]M`)
-- Assoc: Reduction of nested `let`
+- Assoc (Anthony Dubucq): Reduction of nested `let`
 - Inline (Ling Tan): Removal of function calls
 - ConstFold (Mark Bo Jensen): Evaluation of operators that take constants
 - Elim: Elimination of unused variables
