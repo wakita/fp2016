@@ -7,6 +7,7 @@ Sep. 26 | [Overview](01-overview.md) | Reading assignment & Install OCaml on you
 Sep. 29 | [Introduction to functional programming in OCaml (1)](02-ocaml1.md) | Assignment is placed on OCW-i
 Oct. 3 | [Introduction to functional programming in OCaml (2)](02-ocaml1.md) |
 Oct. 6 | [Min-Caml compiler organization](04-mincaml.md) |
+Oct. 13 | [Lexer and parser](doc/1013.md) |
 
 # References
 
