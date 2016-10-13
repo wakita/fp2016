@@ -24,17 +24,17 @@ What we see in the distribution of MinCaml system
 
 ## Lexer and parser
 
-- Lexer
-- Parser
+- Lexer (Ken Wakita)
+- Parser (Ken Wakita)
 
 ## Types and typing rules
 
-- Typing: Type-inference rules
+- Typing (Nagayama Kanato): Type-inference rules
 
 ## Conversion to k-Normal form
 
-- KNormal: Conversion to \(k\)-Normal form
-- Alpha: \(\alpha\) conversion
+- KNormal (Osako Kayo): Conversion to \(k\)-Normal form
+- Alpha (Soga Mitsuaki): \(\alpha\) conversion
 
 ## Optimizers
 
@@ -42,7 +42,7 @@ What we see in the distribution of MinCaml system
 - Assoc (Anthony Dubucq): Reduction of nested `let`
 - Inline (Ling Tan): Removal of function calls
 - ConstFold (Mark Bo Jensen): Evaluation of operators that take constants
-- Elim: Elimination of unused variables
+- Elim (Jonathan Golan): Elimination of unused variables
 
 ## Backend
 
