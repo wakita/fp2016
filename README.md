@@ -10,6 +10,20 @@ Oct. 6 | [Min-Caml compiler organization](04-mincaml.md) |
 Oct. 13 | [Lexer and parser](doc/1013.md) |
 Oct. 17 | [Type system](slides/oct17.pdf) |
 
+# Agenda
+
+Date | Theory | Implementation |
+----- | ----- | -----
+oct17 | Typing                 ||
+oct20 | KNF , Alpha            ||
+oct24 | Beta, Assoc, Inline    | Typing (Nagayama Kanato) |
+oct27 | ConstFold, Elim        | KNF (Osako Kayo), Alpha (Soga Mitsuaki) |
+oct31 | Closure conversion     | Beta (Sarocha Sothornprapakorn), Assoc (Anthony Dubucq), Inline (Ling Tan) |
+nov3  | Virtual machine code   | ConstFold (Mark Bo Jensen), Elim (Jonathan Golan) |
+nov7  | (SIMM is skipped) Register Allocation | Closure conversion |
+nov14 |                        | Virtual machine code, SIMM |
+nov21 |                        | Register Allocation  |
+
 # References
 
 ## About OCaml
