@@ -43,6 +43,11 @@ nov21 |                        | Register Allocation  |
 
 - [MinCaml project summary report](doc/sumii-mincaml-final-report.pdf)
 
+## Others
+
+On type system
+: Benjamin Pierce, [Types and Programming Languages](https://www.amazon.co.jp/dp/B00AJXZ5JE), MIT Press, 2002.
+
 <!--
 Class 2	Introduction to functional programming in OCaml (1)	 Primitive data types, compound data types, algebraic data types. 
 Class 3	Introduction to functional programming in OCaml (2)	 Recursive data structures, recursive functions, higher-order functions, mutable states. 
