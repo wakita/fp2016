@@ -45,8 +45,8 @@ nov21 |                        | Register Allocation  |
 
 ## Others
 
-On type system
-: Benjamin Pierce, [Types and Programming Languages](https://www.amazon.co.jp/dp/B00AJXZ5JE), MIT Press, 2002.
+- On type system 
+Benjamin Pierce, [Types and Programming Languages](https://www.amazon.co.jp/dp/B00AJXZ5JE), MIT Press, 2002.
 
 <!--
 Class 2	Introduction to functional programming in OCaml (1)	 Primitive data types, compound data types, algebraic data types. 
