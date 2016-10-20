@@ -22,7 +22,7 @@ oct27 | ConstFold, Elim        | KNF (Osako Kayo), Alpha (Soga Mitsuaki) |
 oct31 | Closure conversion     | Beta (Sarocha Sothornprapakorn), Assoc (Anthony Dubucq), Inline (Ling Tan) |
 nov3  | Virtual machine code   | ConstFold (Mark Bo Jensen, Zhengqing Li), Elim (Jonathan Golan) |
 nov7  | (SIMM is skipped) Register Allocation | Closure conversion (Inukai Yasuhiro) |
-nov14 |                        | Virtual machine code, SIMM |
+nov14 |                        | Virtual machine code (taken), SIMM (taken) |
 nov21 |                        | Register Allocation (Dashdemberel Batchunag) |
 
 # References
