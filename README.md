@@ -21,9 +21,9 @@ oct24 | Beta, Assoc, Inline    | Typing (Nagayama Kanato) |
 oct27 | ConstFold, Elim        | KNF (Osako Kayo), Alpha (Soga Mitsuaki) |
 oct31 | Closure conversion     | Beta (Sarocha Sothornprapakorn), Assoc (Anthony Dubucq), Inline (Ling Tan) |
 nov3  | Virtual machine code   | ConstFold (Mark Bo Jensen, Zhengqing Li), Elim (Jonathan Golan) |
-nov7  | (SIMM is skipped) Register Allocation | Closure conversion |
+nov7  | (SIMM is skipped) Register Allocation | Closure conversion (Inukai Yasuhiro) |
 nov14 |                        | Virtual machine code, SIMM |
-nov21 |                        | Register Allocation  |
+nov21 |                        | Register Allocation (Dashdemberel Batchunag) |
 
 # References
 
