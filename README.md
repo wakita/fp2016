@@ -9,7 +9,8 @@ Oct. 3 | [Introduction to functional programming in OCaml (2)](02-ocaml1.md) |
 Oct. 6 | [Min-Caml compiler organization](04-mincaml.md) |
 Oct. 13 | [Lexer and parser](doc/1013.md) |
 Oct. 17 | [Type system](slides/oct17.pdf) |
-Oct. 20 | KNF, Beta, Alpha, maybe more | [Reading assignment](https://en.wikipedia.org/wiki/Unification_(computer_science))
+Oct. 20 | KNF, Beta, Alpha | [Reading assignment](https://en.wikipedia.org/wiki/Unification_(computer_science))
+Oct. 24 | Inline, ConstFold | Typing (Nagayama Kanato) |
 
 # Agenda
 
@@ -43,6 +44,11 @@ nov21 |                        | Register Allocation (Dashdemberel Batchunag) |
 
 
 - [MinCaml project summary report](doc/sumii-mincaml-final-report.pdf)
+
+## Building MinCaml and running the `min-caml.top` interpreter
+
+- [Building MinCaml on Mac](doc/1024.md)
+
 
 ## Others
 
