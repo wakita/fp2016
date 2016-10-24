@@ -47,7 +47,7 @@ nov21 |                        | Register Allocation (Dashdemberel Batchunag) |
 
 ## Building MinCaml and running the `min-caml.top` interpreter
 
-- [Building MinCaml on Mac](doc/1024.md)
+- [Building MinCaml on Mac](doc/1024-build.md)
 
 
 ## Others
